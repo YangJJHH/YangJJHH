@@ -1,6 +1,5 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYangJJHH&count_bg=%2319E300&title_bg=%233D2E2E&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ## Hi! Nice to see you :wave:
----
 ### Welcome to my page!<br>
 ### I'm JaeHyeock, Game client developer from Korea
 <div align = "center">
