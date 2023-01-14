@@ -7,6 +7,6 @@ I'm JaeHyeock, Game client developer from Korea
 <h2>:sparkles: My tech stack :sparkles: </h2>
   <img src="https://img.shields.io/badge/-C%23-00599C?style=flat-square&logo=CSharp&logoColor=white"/>&nbsp<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>&nbsp<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black"/>&nbsp<img src="https://img.shields.io/badge/Java-265A8F?style=flat-square&logo=java&logoColor=white">&nbsp<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
   
-![JaeHyeock's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 </div>
 
